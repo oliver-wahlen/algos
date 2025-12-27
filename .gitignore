@@ -1,0 +1,9 @@
+# Misc
+*.swp
+
+# Rust
+target/
+Cargo.lock
+
+# GCC
+build/
